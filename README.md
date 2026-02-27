@@ -1,7 +1,7 @@
-# picgo-plugin-lsky-pro
+# picgo-plugin-lskypro-own
 
-[![npm version](https://img.shields.io/npm/v/picgo-plugin-lsky-pro.svg?color=brightgreen)](https://www.npmjs.com/package/picgo-plugin-lsky-pro)
-[![downloads](https://img.shields.io/npm/dm/picgo-plugin-lsky-pro.svg?color=brightgreen)](https://npmcharts.com/compare/picgo-plugin-lsky-pro?minimal=true)
+[![npm version](https://img.shields.io/npm/v/picgo-plugin-lskypro-own.svg?color=brightgreen)](https://www.npmjs.com/package/picgo-plugin-lskypro-own)
+[![downloads](https://img.shields.io/npm/dm/picgo-plugin-lskypro-own.svg?color=brightgreen)](https://npmcharts.com/compare/picgo-plugin-lskypro-own?minimal=true)
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/lemodragon/Picgo-Plugin-Lskypro/blob/main/LICENSE)
 
 **兰空图床(Lsky Pro+)上传插件——支持V1和V2(付费用户)**
@@ -41,7 +41,7 @@
 # macOS: ~/Library/Application Support/picgo
 
 # 安装插件
-npm install picgo-plugin-lsky-pro
+npm install picgo-plugin-lskypro-own
 
 # 重启 PicGo
 ```

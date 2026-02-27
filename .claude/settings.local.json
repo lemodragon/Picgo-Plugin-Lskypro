@@ -20,7 +20,8 @@
       "Bash(ls:*)",
       "Bash(git init:*)",
       "Bash(git add:*)",
-      "Bash(npm view:*)"
+      "Bash(npm view:*)",
+      "Bash(npm version patch)"
     ]
   }
 }

@@ -28,7 +28,7 @@
 
 1. 打开 PicGo 详细窗口
 2. 选择 **插件设置**
-3. 搜索 **lskypro**
+3. 搜索 **lskypro-own**
 4. 点击安装
 5. 重启 PicGo
 
@@ -45,6 +45,12 @@ npm install picgo-plugin-lskypro-own
 
 # 重启 PicGo
 ```
+
+## 📖 使用教程
+
+安装完成后，按照以下步骤配置和使用插件：
+
+![使用教程](./course.png)
 
 ## 🔧 配置说明
 

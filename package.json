@@ -1,6 +1,6 @@
 {
   "name": "picgo-plugin-lskypro-own",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PicGo 兰空图床(Lsky Pro)上传插件 - 支持 V1 和 V2 版本",
   "main": "dist/index.js",
   "publishConfig": {

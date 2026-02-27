@@ -1,0 +1,41 @@
+# 依赖和日志
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# 源代码（只发布编译后的 dist）
+src/
+tsconfig.json
+tslint.json
+
+# 开发工具配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 测试和 CI
+.travis.yml
+.github/
+test/
+tests/
+*.test.js
+*.spec.js
+
+# 临时文件
+temp.js
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# 其他
+*.log
+.env
+.env.local

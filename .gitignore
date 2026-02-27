@@ -1,0 +1,44 @@
+# 依赖
+node_modules/
+package-lock.json
+yarn.lock
+
+# 编译输出
+dist/
+*.js.map
+
+# 日志
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# 测试
+coverage/
+.nyc_output/
+
+# 临时文件
+*.tmp
+*.temp
+temp.js
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 其他
+*.log

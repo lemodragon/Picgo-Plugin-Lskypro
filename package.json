@@ -1,0 +1,60 @@
+{
+  "name": "picgo-plugin-lskypro",
+  "version": "1.0.0",
+  "description": "PicGo 兰空图床(Lsky Pro)上传插件 - 支持 V1 和 V2 版本",
+  "main": "dist/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lemodragon/Picgo-Plugin-Lskypro"
+  },
+  "homepage": "https://github.com/lemodragon/Picgo-Plugin-Lskypro",
+  "bugs": {
+    "url": "https://github.com/lemodragon/Picgo-Plugin-Lskypro/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p .",
+    "dev": "tsc -w -p .",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "picgo",
+    "picgo-plugin",
+    "picgo-gui-plugin",
+    "lsky-pro",
+    "lskypro",
+    "兰空图床",
+    "image-uploader",
+    "image-hosting"
+  ],
+  "author": "lemodragon <https://github.com/lemodragon>",
+  "license": "MIT",
+  "picgo": {
+    "name": "lskypro",
+    "logo": "logo.png",
+    "config": {
+      "plugin.lskypro": {
+        "required": true
+      }
+    }
+  },
+  "devDependencies": {
+    "@types/node": "^10.10.1",
+    "picgo": "^1.4.0",
+    "tslint": "^5.10.0",
+    "tslint-config-standard": "^7.1.0",
+    "typescript": "^3.7.3",
+    "eslint": "^5.0.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}

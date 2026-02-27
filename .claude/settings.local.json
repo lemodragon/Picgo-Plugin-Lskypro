@@ -19,7 +19,8 @@
       "Bash(echo:*)",
       "Bash(ls:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(npm view:*)"
     ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "picgo-plugin-lskypro",
+  "name": "picgo-plugin-lsky-pro",
   "version": "1.0.0",
   "description": "PicGo 兰空图床(Lsky Pro)上传插件 - 支持 V1 和 V2 版本",
   "main": "dist/index.js",
